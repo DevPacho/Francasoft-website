@@ -1,4 +1,4 @@
-<h1>Welcome to Francasoft 🎯🤖</h1>
+<h1>Welcome to Francasoft! 🎯🤖</h1>
 <p>This proyect, is a website created from scratch for "Francasoft", a business idea born from my high school final grade project! 🤩</p>
 <br>
 <h2>Take a look 👀</h2>
